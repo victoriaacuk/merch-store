@@ -15,7 +15,7 @@ root.render(
    
    <Auth0Provider
     domain="dev-n39fdnsb.us.auth0.com"
-    clientId="8mJE25GnIBdhU5dBywtVR87r4ABRSIJj"
+    clientId="z8GhgSrozmznOlzsM9im1v8gA0tSIBQ0"
     redirectUri={window.location.origin}>
       <Provider
       store={store}>
